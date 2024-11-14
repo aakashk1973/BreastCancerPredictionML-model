@@ -1,4 +1,4 @@
-# Breast Cancer Prediction Model (Clinical Data Only)
+# Breast Cancer Prediction Model 
 
 ## Project Overview
 
